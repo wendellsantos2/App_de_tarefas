@@ -61,7 +61,7 @@ json-server --watch db.json --host 192.168.0.145
  # Passo 9: Ajustando IP da sua máquina para integrar o db.json ao seu aplicativo 
 
 
-Vá no seu TarefaController.js e Altere a url de acordo com Seu Ip ou coloque somente localhost.
+Vá no seu TarefaController.js e Altere a url de acordo com Seu Ip.
 
   ![Descrição da Imagem](imagens_projeto/10.png)
 
