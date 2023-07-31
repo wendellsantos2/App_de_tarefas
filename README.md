@@ -51,7 +51,10 @@ No mesmo terminal execute o seguinte comando a partir da raiz do seu projeto Rea
 
 ```bash
 # exemplo 1:
-json-server --watch db.json --host 192.168.0.145 <- seu IP aqui
+json-server --watch db.json --host SEUIPAQUI
+
+# exemplo 2:
+json-server --watch db.json --host 192.168.0.145  
  ```
 
 
