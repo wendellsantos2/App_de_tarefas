@@ -39,13 +39,13 @@ npm run android
 npm run ios
  ```
 
-# Passo 7: instalando o db.json
+# Passo 7: instalando o json server
 abra um novo terminal e execute o seguinte codigo
 ```bash
 # usando npm :
  npm i json-server
  ```
-# Passo 8: Iniciando conexão com db.json
+# Passo 8: Iniciando conexão com json server db.json
 
 No mesmo terminal execute o seguinte comando a partir da raiz do seu projeto React Native usando o comando :
 
@@ -56,6 +56,12 @@ json-server --watch db.json --host localhost --port 3000
 # exemplo 2:
 json-server --watch db.json --host http://SEUIPAQUIII  --port 3000
  ```
+
+
+ # Passo 9: Iniciando conexão com json server db.json
+
+ ![Descrição da Imagem](imagens_projeto/10.png)
+
 Se tudo estiver configurado corretamente, você verá seu novo aplicativo sendo executado no seu Emulador Android ou Simulador iOS em breve, desde que você tenha configurado seu emulador/simulador corretamente.
 
 
@@ -75,4 +81,4 @@ Se tudo estiver configurado corretamente, você verá seu novo aplicativo sendo 
 ![Descrição da Imagem](imagens_projeto/8.png)
 
 ![Descrição da Imagem](imagens_projeto/9.png)
-![Descrição da Imagem](imagens_projeto/10.png)
+

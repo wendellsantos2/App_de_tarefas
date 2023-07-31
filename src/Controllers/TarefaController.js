@@ -1,6 +1,6 @@
 // api.js
 
-const API_URL = 'http://192.168.0.123:3000/tarefas';
+const API_URL = 'http://192.168.0.145:3000/tarefas';
 
 // Função para obter a lista de tarefas da API
 export const getTarefas = async () => {
