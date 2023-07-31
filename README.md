@@ -58,9 +58,12 @@ json-server --watch db.json --host http://SEUIPAQUIII  --port 3000
  ```
 
 
- # Passo 9: Iniciando conexão com json server db.json
+ # Passo 9: Ajustando IP da sua máquina para integrar o db.json ao seu aplicativo 
 
+```bash
+# exemplo 1:
  ![Descrição da Imagem](imagens_projeto/10.png)
+ ```
 
 Se tudo estiver configurado corretamente, você verá seu novo aplicativo sendo executado no seu Emulador Android ou Simulador iOS em breve, desde que você tenha configurado seu emulador/simulador corretamente.
 
