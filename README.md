@@ -65,6 +65,13 @@ Vá no seu TarefaController.js e Altere a url de acordo com Seu Ip ou coloque so
 
   ![Descrição da Imagem](imagens_projeto/10.png)
 
+
+  ```bash
+# exemplo 1:
+ 
+const API_URL = 'http://SEUIPAQUI/tarefas';
+ ```
+
 Se tudo estiver configurado corretamente, você verá seu novo aplicativo sendo executado no seu Emulador Android ou Simulador iOS em breve, desde que você tenha configurado seu emulador/simulador corretamente.
 
 
