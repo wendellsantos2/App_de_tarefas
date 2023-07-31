@@ -1,0 +1,34 @@
+{
+  "tarefas": [
+    {
+      "id": 1690761436769,
+      "texto": "Trabalhar ",
+      "concluida": false
+    },
+    {
+      "id": 1690761478483,
+      "texto": "Estudar React ",
+      "concluida": true
+    },
+    {
+      "id": 1690761502248,
+      "texto": "Estudar ",
+      "concluida": true
+    },
+    {
+      "id": 1690761571880,
+      "texto": "Lavar roupa",
+      "concluida": true
+    },
+    {
+      "id": 1690761580632,
+      "texto": "Acade",
+      "concluida": false
+    },
+    {
+      "id": 1690761585640,
+      "texto": "Estudar",
+      "concluida": false
+    }
+  ]
+}
