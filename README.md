@@ -51,10 +51,7 @@ No mesmo terminal execute o seguinte comando a partir da raiz do seu projeto Rea
 
 ```bash
 # exemplo 1:
-json-server --watch db.json --host localhost --port 3000
-
-# exemplo 2:
-json-server --watch db.json --host http://SEUIPAQUIII  --port 3000
+json-server --watch db.json --host 192.168.0.145 <- seu IP aqui
  ```
 
 
@@ -68,8 +65,11 @@ Vá no seu TarefaController.js e Altere a url de acordo com Seu Ip ou coloque so
 
   ```bash
 # exemplo 1:
- 
 const API_URL = 'http://SEUIPAQUI/tarefas';
+
+# exemplo 2:
+const API_URL = 'http://192.168.0.145:3000/tarefas';
+
  ```
 
 Se tudo estiver configurado corretamente, você verá seu novo aplicativo sendo executado no seu Emulador Android ou Simulador iOS em breve, desde que você tenha configurado seu emulador/simulador corretamente.
