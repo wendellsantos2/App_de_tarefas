@@ -39,7 +39,7 @@ npm run android
 npm run ios
  ```
 
-# Passo 7: instanlando o db.sjon
+# Passo 7: instalando o db.json
 abra um novo terminal e execute o seguinte codigo
 ```bash
 # usando npm :
@@ -54,7 +54,7 @@ No mesmo terminal execute o seguinte comando a partir da raiz do seu projeto Rea
 json-server --watch db.json --host localhost --port 3000
 
 # exemplo 2:
-json-server --watch db.json --host http://SEUIPAQUII --port 3000
+json-server --watch db.json --host http://SEUIPAQUIII  --port 3000
  ```
 Se tudo estiver configurado corretamente, você verá seu novo aplicativo sendo executado no seu Emulador Android ou Simulador iOS em breve, desde que você tenha configurado seu emulador/simulador corretamente.
 
